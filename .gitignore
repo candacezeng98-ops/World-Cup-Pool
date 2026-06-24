@@ -1,0 +1,12 @@
+node_modules/
+cache/
+artifacts/
+typechain-types/
+.env
+.env.*
+!.env.example
+coverage/
+coverage.json
+.DS_Store
+Thumbs.db
+*.log
